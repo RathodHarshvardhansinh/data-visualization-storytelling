@@ -1,0 +1,37 @@
+Month,MonthNo,Quarter,Category,Sales,Discount,Profit
+Jan,1,Q1,Furniture,93451.85,0.106,16318.3
+Jan,1,Q1,Technology,126024.45,0.122,25385.64
+Jan,1,Q1,Office Supplies,75454.79,0.139,12619.3
+Feb,2,Q1,Furniture,97021.97,0.127,15223.79
+Feb,2,Q1,Technology,118302.4,0.107,25320.3
+Feb,2,Q1,Office Supplies,81695.06,0.136,13866.51
+Mar,3,Q1,Furniture,99157.72,0.129,15373.33
+Mar,3,Q1,Technology,128573.31,0.094,28981.82
+Mar,3,Q1,Office Supplies,87060.26,0.084,18608.72
+Apr,4,Q2,Furniture,105423.53,0.118,17372.23
+Apr,4,Q2,Technology,139256.18,0.101,30485.85
+Apr,4,Q2,Office Supplies,95504.44,0.134,16374.31
+May,5,Q2,Furniture,108468.85,0.092,20291.64
+May,5,Q2,Technology,138551.46,0.083,32527.17
+May,5,Q2,Office Supplies,88308.53,0.121,16086.68
+Jun,6,Q2,Furniture,111700.8,0.138,16493.41
+Jun,6,Q2,Technology,140488.64,0.102,30641.49
+Jun,6,Q2,Office Supplies,95590.83,0.091,19819.51
+Jul,7,Q3,Furniture,105817.89,0.294,1632.52
+Jul,7,Q3,Technology,152337.57,0.106,32707.68
+Jul,7,Q3,Office Supplies,103820.23,0.122,18821.2
+Aug,8,Q3,Furniture,112173.85,0.328,-1575.26
+Aug,8,Q3,Technology,151180.34,0.097,33606.67
+Aug,8,Q3,Office Supplies,105016.26,0.088,22040.04
+Sep,9,Q3,Furniture,113808.87,0.327,-1494.67
+Sep,9,Q3,Technology,162055.73,0.122,32579.13
+Sep,9,Q3,Office Supplies,109750.3,0.108,21247.14
+Oct,10,Q4,Furniture,123577.95,0.088,23463.79
+Oct,10,Q4,Technology,154392.78,0.12,31328.06
+Oct,10,Q4,Office Supplies,108359.74,0.114,20390.37
+Nov,11,Q4,Furniture,130674.58,0.118,21512.87
+Nov,11,Q4,Technology,169260.19,0.114,35287.44
+Nov,11,Q4,Office Supplies,108925.94,0.082,23465.73
+Dec,12,Q4,Furniture,128451.8,0.093,23899.25
+Dec,12,Q4,Technology,170587.12,0.131,33004.59
+Dec,12,Q4,Office Supplies,110908.98,0.083,23737.47
